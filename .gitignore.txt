@@ -1,5 +1,5 @@
-**/BusinessPCB-backups
-**/FabFiles
-**/Images
-**/lbs
-**/plots
+BusinessPCB-backups/
+FabFiles/
+Images/
+lbs/
+plots/
